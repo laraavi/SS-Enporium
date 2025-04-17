@@ -1,0 +1,12 @@
+.carousel-slide{
+    height: 50%;
+  }
+  .carousel-inner{
+    height: 60%;
+  }
+  .carousel-item{
+    height: 60%;
+  }
+  .contact-address-link{
+    display: flex;
+  }
